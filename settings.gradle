@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Applocum_mm_demo'

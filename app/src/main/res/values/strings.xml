@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Applocum</string>
+
+    <string name="welcome_to_ttl">Welcome to Applocum</string>
+    <string name="sign_in_with_email_ttl">Sign in with email</string>
+    <string name="your_email_ttl">Your Email Address</string>
+    <string name="password_ttl">Password</string>
+    <string name="login_ttl">Login</string>
+
+    <string name="email_validation">Please enter email address.</string>
+    <string name="valid_email_validation">Please enter valid email address.</string>
+    <string name="password_validation">Please enter password.</string>
+    <string name="password_length_validation">Password length must be 6 to 16 character long.</string>
+    <string name="valid_email_password">Your email and password wrong.</string>
+
+
+    <string name="logout_message">Are you sure you want to Logout?</string>
+    <string name="exit_from_app_message">Are you sure you want to exit from the application?</string>
+    <string name="logout">Logout</string>
+    <string name="cancel">Cancel</string>
+</resources>
